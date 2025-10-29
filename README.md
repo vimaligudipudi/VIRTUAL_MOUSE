@@ -25,16 +25,6 @@ It uses **MediaPipe** for hand tracking, **OpenCV** for video processing, and **
 
 ---
 
-##  Project Structure
-
-📂 VirtualMouse
-│
-├── main.py # Main program (mouse control logic)
-├── util.py # Utility functions for angle & distance calculation
-└── README.md # Project documentation
-
-yaml
-Copy code
 
 ---
 
